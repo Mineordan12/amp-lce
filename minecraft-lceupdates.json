@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "Minecraft LCE Server FIles",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "LCEServerWindows64.zip",
+        "UpdateSourceArgs": "smartcmd/MinecraftConsoles",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
